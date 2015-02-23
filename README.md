@@ -11,7 +11,7 @@ Sample code at http://georgehe4.meteor.com/.
 In order to properly launch and run the server, follow the run these steps:
 
 --Install meteor following the steps at https://www.meteor.com/install
---Clone the repository
---Change directory to the repository
+--Run the command meteor create MessageBoard
+--Clone the repository - replace all html, css, js files
 --Run the command "meteor"
 --Your server is now set up (by default, at localhost:3000/)
