@@ -1,4 +1,3 @@
-# MessageBoard
 <h1>Message Board - Meteor</h1>
 
 This is a simple message board set up with Meteor - a framework built on top of Node.<br/>
